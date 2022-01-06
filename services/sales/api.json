@@ -1,0 +1,6 @@
+{
+    "sales":{
+        "method":"get",
+        "url":"/test"
+    }
+}

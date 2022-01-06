@@ -1,0 +1,10 @@
+{
+    "login":{
+        "url":"/auth",
+        "method":"post"
+    },
+    "getUserInfo":{
+        "url":"/auth",
+        "method":"get"
+    }
+}
